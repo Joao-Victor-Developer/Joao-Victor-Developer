@@ -59,6 +59,10 @@ Meu foco é atuar como desenvolvedor **C# (ASP.NET e/ou Unity)** e também como 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 📊 GitHub Stats:
+
+![João Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor-Developer&show_icons=true&theme=dark)
+
 ---
 ## 🌐 Contato
 
