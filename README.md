@@ -63,6 +63,15 @@ Meu foco é atuar como desenvolvedor **C# (ASP.NET e/ou Unity)** e também como 
 
 ![João Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor-Developer&show_icons=true&theme=dark)
 
+
+## 🚀 Most Used Languages:
+
+![João Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Developer&layout=compact&theme=dark)
+
+## 🔥 Streak Stats:
+
+![João Victor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Victor-Developer&theme=dark)
+
 ---
 ## 🌐 Contato
 
