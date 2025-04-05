@@ -76,8 +76,6 @@ Meu foco é atuar como desenvolvedor **C# (ASP.NET e/ou Unity)** e também como 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Joao-Victor-Developer&color=blue)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Joao-Victor-Developer&theme=github-dark)
-
 
 ## 🌐 Contato
 
