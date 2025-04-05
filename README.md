@@ -73,6 +73,12 @@ Meu foco é atuar como desenvolvedor **C# (ASP.NET e/ou Unity)** e também como 
 ![João Victor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Victor-Developer&theme=dark)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Joao-Victor-Developer&color=blue)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Joao-Victor-Developer&theme=github-dark)
+
+
 ## 🌐 Contato
 
 - 📧 Email: joaovictordevsm@gmail.com
