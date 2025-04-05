@@ -64,7 +64,6 @@ Meu foco é atuar como desenvolvedor **C# (ASP.NET e/ou Unity)** e também como 
 
 - 📧 Email: joaovictordevsm@gmail.com
 - 💼 LinkedIn: (in/joão-victor-bezerra-de-lima-7b0528333)  
-- 💻 Portfólio: (https://seuportfolio.com) 
 
 ---
 
